@@ -1,0 +1,1091 @@
+{
+  "responseContext": {
+    "serviceTrackingParams": [
+      {
+        "service": "GUIDED_HELP",
+        "params": [
+          {
+            "key": "context",
+            "value": "yt_web_search"
+          },
+          {
+            "key": "logged_in",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "service": "GFEEDBACK",
+        "params": [
+          {
+            "key": "has_unlimited_entitlement",
+            "value": "False"
+          },
+          {
+            "key": "logged_in",
+            "value": "1"
+          },
+          {
+            "key": "e",
+            "value": "23933618,23900854,23860381,23864523,23922223,23871729,23910764,23907247,23837886,23915032,23930220,23936487,23933568,23865206,23935294,23928508,23899696,23862294,23853114,23841299,23937609,23903983,23934021,23834232,23932792,23882125,23923862,23874051,23928601,23904600,23895174,23934971,24304055,23895138,23897295,39320820,23748146,23928270,23816681,23929658,23929219,23862065,23862582,23895498,23915932,23918657,23797973,23882139,23907436,23918597,23880389,23885639,23874981,23877635,23925932,23925551,23936007,23890960,23882503,23927097,23931016,23841635,23885661,23894009,23932707,23927284,23915958,23858564,23933570,23862346,23928679,23933563,23933139,23905515,23744176,23927190,24650112,23928204,23935296,23842233,23931540,23928117,23932183,23838620,23854276,23884697,23932780,23859025,23865230,23897262,23907445,23931939,23916898,23876040,23898470,23804281,23900376,23928246,23911055,23918272,23908862,23794339,23900829,23921033,23921982,23872595,23745613,23902008,23880323,23754764,23915985,23883098,23933169,23905281,1714246,23887808,23862025,23910680,23934047,23907595,23868136,23923643,23755966,23930302,23934090,23789385,23896666,23921645,23900707,23861263,23921357,9473400,23884386,23932753,23919025,23857970,23919895,23923390,23842638,23937442,23832002,23884995,23901097,23934587,23709532,23861666,23935723,23928172,23897257,23924498,23934566,23790586,23858057,23927906,23932754,23888210,23811989,23932567,23874337,23898321,23836115,23911301,23839597,23907719,23929653,23934322,23896984,9473387,23854352,23886778,23884593,23919047,23919917,23910775,23934344,23896704,9473373,23874940,23890891,23904038,23919306"
+          }
+        ]
+      },
+      {
+        "service": "CSI",
+        "params": [
+          {
+            "key": "yt_ad",
+            "value": "0"
+          },
+          {
+            "key": "c",
+            "value": "WEB"
+          },
+          {
+            "key": "cver",
+            "value": "2.20200814.00.00"
+          },
+          {
+            "key": "yt_li",
+            "value": "1"
+          },
+          {
+            "key": "GetSearch_rid",
+            "value": "0x38db8339a4e0528c"
+          }
+        ]
+      },
+      {
+        "service": "ECATCHER",
+        "params": [
+          {
+            "key": "client.version",
+            "value": "2.20200812"
+          },
+          {
+            "key": "client.name",
+            "value": "WEB"
+          }
+        ]
+      }
+    ],
+    "webResponseContextExtensionData": {
+      "hasDecorated": true
+    }
+  },
+  "estimatedResults": "65",
+  "trackingParams": "CAAQvGkiEwiaxKjytqHrAhVRKSoKHaDuAUCCARoIABC8aSITCKSspum2oesCFZvOTAIdZL8EVg==",
+  "topbar": {
+    "desktopTopbarRenderer": {
+      "logo": {
+        "topbarLogoRenderer": {
+          "tooltipText": {
+            "runs": [
+              {
+                "text": "YouTube 首页"
+              }
+            ]
+          },
+          "endpoint": {
+            "clickTrackingParams": "CB0QsV4iEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+            "browseEndpoint": {
+              "browseId": "FEwhat_to_watch"
+            },
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/",
+                "webPageType": "WEB_PAGE_TYPE_BROWSE",
+                "rootVe": 3854
+              }
+            }
+          },
+          "trackingParams": "CB0QsV4iEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+          "iconImage": {
+            "iconType": "YOUTUBE_LOGO"
+          }
+        }
+      },
+      "searchbox": {
+        "fusionSearchboxRenderer": {
+          "icon": {
+            "iconType": "SEARCH"
+          },
+          "placeholderText": {
+            "runs": [
+              {
+                "text": "搜索"
+              }
+            ]
+          },
+          "trackingParams": "CBwQ7VAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+          "searchEndpoint": {
+            "clickTrackingParams": "CBwQ7VAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/results?search_query=",
+                "webPageType": "WEB_PAGE_TYPE_SEARCH",
+                "rootVe": 4724
+              }
+            },
+            "searchEndpoint": {
+              "query": ""
+            }
+          },
+          "config": {
+            "webSearchboxConfig": {
+              "requestLanguage": "zh-CN",
+              "requestDomain": "us",
+              "hasOnscreenKeyboard": false,
+              "focusSearchbox": true
+            }
+          }
+        }
+      },
+      "trackingParams": "CAMQq6wBIhMImsSo8rah6wIVUSkqCh2g7gFA",
+      "topbarButtons": [
+        {
+          "topbarMenuButtonRenderer": {
+            "trackingParams": "CBcQ_qsBGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+            "tooltip": "创建",
+            "style": "STYLE_DEFAULT",
+            "icon": {
+              "iconType": "VIDEO_CALL"
+            },
+            "menuRenderer": {
+              "multiPageMenuRenderer": {
+                "sections": [
+                  {
+                    "multiPageMenuSectionRenderer": {
+                      "items": [
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "CREATION_UPLOAD"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "上传视频"
+                                }
+                              ]
+                            },
+                            "trackingParams": "CBsQ898CGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                            "style": "COMPACT_LINK_STYLE_TYPE_CREATION_MENU",
+                            "serviceEndpoint": {
+                              "clickTrackingParams": "CBsQ898CGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "/create_channel?channel_creation_token=KBQ%253D",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769,
+                                  "apiUrl": "/youtubei/v1/channel/get_channel_creation_form"
+                                }
+                              },
+                              "channelCreationFormEndpoint": {
+                                "channelCreationToken": "S0JRJTNE",
+                                "source": "UPLOAD_POPUP_CHANNEL_CREATION_SOURCE"
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "CREATION_LIVE"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "开始直播"
+                                }
+                              ]
+                            },
+                            "trackingParams": "CBoQ9N8CGAEiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                            "style": "COMPACT_LINK_STYLE_TYPE_CREATION_MENU",
+                            "serviceEndpoint": {
+                              "clickTrackingParams": "CBoQ9N8CGAEiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "/create_channel?channel_creation_token=KBU%253D",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769,
+                                  "apiUrl": "/youtubei/v1/channel/get_channel_creation_form"
+                                }
+                              },
+                              "channelCreationFormEndpoint": {
+                                "channelCreationToken": "S0JVJTNE",
+                                "source": "GOLIVE_POPUP_CHANNEL_CREATION_SOURCE"
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      "trackingParams": "CBkQ968BGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA="
+                    }
+                  }
+                ],
+                "trackingParams": "CBgQ_6sBIhMImsSo8rah6wIVUSkqCh2g7gFA",
+                "style": "MULTI_PAGE_MENU_STYLE_TYPE_CREATION"
+              }
+            },
+            "accessibility": {
+              "accessibilityData": {
+                "label": "创建"
+              }
+            }
+          }
+        },
+        {
+          "topbarMenuButtonRenderer": {
+            "trackingParams": "CA0Q_qsBGAEiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+            "tooltip": "YouTube 应用",
+            "style": "STYLE_DEFAULT",
+            "targetId": "topbar-apps",
+            "icon": {
+              "iconType": "APPS"
+            },
+            "menuRenderer": {
+              "multiPageMenuRenderer": {
+                "sections": [
+                  {
+                    "multiPageMenuSectionRenderer": {
+                      "items": [
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "UNPLUGGED_LOGO"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "YouTube TV"
+                                }
+                              ]
+                            },
+                            "trackingParams": "CBYQ4MUCGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CBYQ4MUCGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                              "urlEndpoint": {
+                                "url": "https://tv.youtube.com/?utm_source=youtube_web&utm_medium=ep&utm_campaign=home&ve=34273",
+                                "target": "TARGET_NEW_WINDOW"
+                              },
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://tv.youtube.com/?utm_source=youtube_web&utm_medium=ep&utm_campaign=home&ve=34273",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      "trackingParams": "CBUQ968BGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA="
+                    }
+                  },
+                  {
+                    "multiPageMenuSectionRenderer": {
+                      "items": [
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "YOUTUBE_MUSIC"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "YouTube Music"
+                                }
+                              ]
+                            },
+                            "trackingParams": "CBQQ4sUCGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CBQQ4sUCGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                              "urlEndpoint": {
+                                "url": "https://music.youtube.com",
+                                "target": "TARGET_NEW_WINDOW"
+                              },
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://music.youtube.com/",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "YOUTUBE_KIDS_ROUND"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "YouTube Kids"
+                                }
+                              ]
+                            },
+                            "trackingParams": "CBMQ48UCGAEiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CBMQ48UCGAEiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                              "urlEndpoint": {
+                                "url": "https://www.youtubekids.com?source=youtube_web",
+                                "target": "TARGET_NEW_WINDOW"
+                              },
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://www.youtubekids.com/?source=youtube_web",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      "trackingParams": "CBIQ968BGAEiEwiaxKjytqHrAhVRKSoKHaDuAUA="
+                    }
+                  },
+                  {
+                    "multiPageMenuSectionRenderer": {
+                      "items": [
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "YOUTUBE_ROUND"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "创作者学院"
+                                }
+                              ]
+                            },
+                            "trackingParams": "CBEQ5MUCGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CBEQ5MUCGAAiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                              "urlEndpoint": {
+                                "url": "https://creatoracademy.youtube.com/page/education?utm_source=YouTube&utm_medium=YT%20Main&utm_campaign=YT%20Appsn",
+                                "target": "TARGET_NEW_WINDOW"
+                              },
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://creatoracademy.youtube.com/page/education?utm_source=YouTube&utm_medium=YT%20Main&utm_campaign=YT%20Appsn",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "compactLinkRenderer": {
+                            "icon": {
+                              "iconType": "YOUTUBE_ROUND"
+                            },
+                            "title": {
+                              "runs": [
+                                {
+                                  "text": "YouTube 音乐人之家"
+                                }
+                              ]
+                            },
+                            "trackingParams": "CBAQ5cUCGAEiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                            "navigationEndpoint": {
+                              "clickTrackingParams": "CBAQ5cUCGAEiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                              "urlEndpoint": {
+                                "url": "https://artists.youtube.com/",
+                                "target": "TARGET_NEW_WINDOW"
+                              },
+                              "commandMetadata": {
+                                "webCommandMetadata": {
+                                  "url": "https://artists.youtube.com/",
+                                  "webPageType": "WEB_PAGE_TYPE_UNKNOWN",
+                                  "rootVe": 83769
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ],
+                      "trackingParams": "CA8Q968BGAIiEwiaxKjytqHrAhVRKSoKHaDuAUA="
+                    }
+                  }
+                ],
+                "trackingParams": "CA4Q_6sBIhMImsSo8rah6wIVUSkqCh2g7gFA"
+              }
+            },
+            "accessibility": {
+              "accessibilityData": {
+                "label": "YouTube 应用"
+              }
+            }
+          }
+        },
+        {
+          "notificationTopbarButtonRenderer": {
+            "icon": {
+              "iconType": "NOTIFICATIONS"
+            },
+            "menuRequest": {
+              "clickTrackingParams": "CAsQovoBGAIiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+              "signalServiceEndpoint": {
+                "signal": "GET_NOTIFICATIONS_MENU",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CAsQovoBGAIiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                    "openPopupAction": {
+                      "popup": {
+                        "multiPageMenuRenderer": {
+                          "trackingParams": "CAwQ_6sBIhMImsSo8rah6wIVUSkqCh2g7gFA",
+                          "style": "MULTI_PAGE_MENU_STYLE_TYPE_NOTIFICATIONS",
+                          "showLoadingSpinner": true
+                        }
+                      },
+                      "popupType": "DROPDOWN",
+                      "beReused": true
+                    }
+                  }
+                ]
+              },
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/notification/get_notification_menu"
+                }
+              }
+            },
+            "style": "NOTIFICATION_BUTTON_STYLE_TYPE_DEFAULT",
+            "trackingParams": "CAsQovoBGAIiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+            "tooltip": "通知",
+            "updateUnseenCountEndpoint": {
+              "clickTrackingParams": "CAsQovoBGAIiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+              "signalServiceEndpoint": {
+                "signal": "GET_UNSEEN_NOTIFICATION_COUNT"
+              },
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/notification/get_unseen_count"
+                }
+              }
+            },
+            "notificationCount": 0,
+            "handlerDatas": [
+              "NOTIFICATION_ACTION_UPDATE_UNSEEN_COUNT"
+            ],
+            "accessibility": {
+              "accessibilityData": {
+                "label": "通知"
+              }
+            }
+          }
+        },
+        {
+          "topbarMenuButtonRenderer": {
+            "trackingParams": "CAkQ_qsBGAMiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+            "tooltip": "点击此帐号个人资料照片能打开辅助帐号列表",
+            "menuRequest": {
+              "clickTrackingParams": "CAkQ_qsBGAMiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+              "signalServiceEndpoint": {
+                "signal": "GET_ACCOUNT_MENU",
+                "actions": [
+                  {
+                    "clickTrackingParams": "CAkQ_qsBGAMiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                    "openPopupAction": {
+                      "popup": {
+                        "multiPageMenuRenderer": {
+                          "trackingParams": "CAoQ_6sBIhMImsSo8rah6wIVUSkqCh2g7gFA",
+                          "style": "MULTI_PAGE_MENU_STYLE_TYPE_ACCOUNT",
+                          "showLoadingSpinner": true
+                        }
+                      },
+                      "popupType": "DROPDOWN",
+                      "beReused": true
+                    }
+                  }
+                ]
+              },
+              "commandMetadata": {
+                "webCommandMetadata": {
+                  "url": "/service_ajax",
+                  "sendPost": true,
+                  "apiUrl": "/youtubei/v1/account/account_menu"
+                }
+              }
+            },
+            "avatar": {
+              "thumbnails": [
+                {
+                  "url": "//lh6.googleusercontent.com/-Gw92LkknkMU/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuckTnf-nHWcYwArIlvSZ8B40qh-Okg/s88-c-k-c0x00ffffff-no-rj-mo/photo.jpg",
+                  "width": 88,
+                  "height": 88
+                }
+              ],
+              "accessibility": {
+                "accessibilityData": {
+                  "label": "头像图片"
+                }
+              }
+            },
+            "accessibility": {
+              "accessibilityData": {
+                "label": "点击此帐号个人资料照片能打开辅助帐号列表"
+              }
+            }
+          }
+        }
+      ],
+      "hotkeyDialog": {
+        "hotkeyDialogRenderer": {
+          "title": {
+            "runs": [
+              {
+                "text": "键盘快捷键"
+              }
+            ]
+          },
+          "sections": [
+            {
+              "hotkeyDialogSectionRenderer": {
+                "title": {
+                  "runs": [
+                    {
+                      "text": "播放"
+                    }
+                  ]
+                },
+                "options": [
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "在播放和暂停之间切换"
+                          }
+                        ]
+                      },
+                      "hotkey": "k"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "快退 10 秒"
+                          }
+                        ]
+                      },
+                      "hotkey": "j"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "快进 10 秒"
+                          }
+                        ]
+                      },
+                      "hotkey": "l"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "上一个视频"
+                          }
+                        ]
+                      },
+                      "hotkey": "P (SHIFT+p)"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "下一个视频"
+                          }
+                        ]
+                      },
+                      "hotkey": "N (SHIFT+n)"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "上一帧（暂停时）"
+                          }
+                        ]
+                      },
+                      "hotkey": ",",
+                      "hotkeyAccessibilityLabel": {
+                        "accessibilityData": {
+                          "label": "英文逗号"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "下一帧（暂停时）"
+                          }
+                        ]
+                      },
+                      "hotkey": ".",
+                      "hotkeyAccessibilityLabel": {
+                        "accessibilityData": {
+                          "label": "英文句点"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "减慢播放速度"
+                          }
+                        ]
+                      },
+                      "hotkey": "\u003c (SHIFT+,)",
+                      "hotkeyAccessibilityLabel": {
+                        "accessibilityData": {
+                          "label": "小于号或 SHIFT + 英文逗号"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "加快播放速度"
+                          }
+                        ]
+                      },
+                      "hotkey": "\u003e (SHIFT+.)",
+                      "hotkeyAccessibilityLabel": {
+                        "accessibilityData": {
+                          "label": "大于或 SHIFT + 英文句点"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "跳转至视频中的某个时间点（例如，输入 7 表示前进至总时长的 70% 处）"
+                          }
+                        ]
+                      },
+                      "hotkey": "0..9"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "hotkeyDialogSectionRenderer": {
+                "title": {
+                  "runs": [
+                    {
+                      "text": "常规"
+                    }
+                  ]
+                },
+                "options": [
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "切换全屏模式"
+                          }
+                        ]
+                      },
+                      "hotkey": "f"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "切换影院模式"
+                          }
+                        ]
+                      },
+                      "hotkey": "t"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "切换迷你播放器"
+                          }
+                        ]
+                      },
+                      "hotkey": "i"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "关闭迷你播放器或当前对话框"
+                          }
+                        ]
+                      },
+                      "hotkey": "Esc"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "在静音和取消静音之间切换"
+                          }
+                        ]
+                      },
+                      "hotkey": "m"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "hotkeyDialogSectionRenderer": {
+                "title": {
+                  "runs": [
+                    {
+                      "text": "字幕"
+                    }
+                  ]
+                },
+                "options": [
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "在开启和关闭字幕之间切换（如果视频支持字幕）"
+                          }
+                        ]
+                      },
+                      "hotkey": "c"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "轮流切换不同的文字不透明度"
+                          }
+                        ]
+                      },
+                      "hotkey": "o"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "轮流切换不同的窗口不透明度"
+                          }
+                        ]
+                      },
+                      "hotkey": "w"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "轮流切换字体大小（升序）"
+                          }
+                        ]
+                      },
+                      "hotkey": "+"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "轮流切换字体大小（降序）"
+                          }
+                        ]
+                      },
+                      "hotkey": "-",
+                      "hotkeyAccessibilityLabel": {
+                        "accessibilityData": {
+                          "label": "减号"
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "hotkeyDialogSectionRenderer": {
+                "title": {
+                  "runs": [
+                    {
+                      "text": "全景视频"
+                    }
+                  ]
+                },
+                "options": [
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "向上平移"
+                          }
+                        ]
+                      },
+                      "hotkey": "w"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "向左平移"
+                          }
+                        ]
+                      },
+                      "hotkey": "a"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "向下平移"
+                          }
+                        ]
+                      },
+                      "hotkey": "s"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "向右平移"
+                          }
+                        ]
+                      },
+                      "hotkey": "d"
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "放大"
+                          }
+                        ]
+                      },
+                      "hotkey": "数字小键盘上的 + 或者 ]",
+                      "hotkeyAccessibilityLabel": {
+                        "accessibilityData": {
+                          "label": "数字键盘上的加号或右中括号"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "hotkeyDialogSectionOptionRenderer": {
+                      "label": {
+                        "runs": [
+                          {
+                            "text": "缩小"
+                          }
+                        ]
+                      },
+                      "hotkey": "数字小键盘上的 - 或者 [",
+                      "hotkeyAccessibilityLabel": {
+                        "accessibilityData": {
+                          "label": "数字键盘上的减号或左中括号"
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "dismissButton": {
+            "buttonRenderer": {
+              "size": "SIZE_DEFAULT",
+              "isDisabled": false,
+              "text": {
+                "runs": [
+                  {
+                    "text": "关闭"
+                  }
+                ]
+              },
+              "trackingParams": "CAgQ8FsiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+              "style": "STYLE_BLUE_TEXT"
+            }
+          },
+          "trackingParams": "CAcQteYDIhMImsSo8rah6wIVUSkqCh2g7gFA"
+        }
+      },
+      "backButton": {
+        "buttonRenderer": {
+          "trackingParams": "CAYQvIYDIhMImsSo8rah6wIVUSkqCh2g7gFA",
+          "command": {
+            "clickTrackingParams": "CAYQvIYDIhMImsSo8rah6wIVUSkqCh2g7gFA",
+            "signalServiceEndpoint": {
+              "signal": "CLIENT_SIGNAL",
+              "actions": [
+                {
+                  "clickTrackingParams": "CAYQvIYDIhMImsSo8rah6wIVUSkqCh2g7gFA",
+                  "signalAction": {
+                    "signal": "HISTORY_BACK"
+                  }
+                }
+              ]
+            },
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/service_ajax",
+                "sendPost": true
+              }
+            }
+          }
+        }
+      },
+      "forwardButton": {
+        "buttonRenderer": {
+          "trackingParams": "CAUQvYYDIhMImsSo8rah6wIVUSkqCh2g7gFA",
+          "command": {
+            "clickTrackingParams": "CAUQvYYDIhMImsSo8rah6wIVUSkqCh2g7gFA",
+            "signalServiceEndpoint": {
+              "signal": "CLIENT_SIGNAL",
+              "actions": [
+                {
+                  "clickTrackingParams": "CAUQvYYDIhMImsSo8rah6wIVUSkqCh2g7gFA",
+                  "signalAction": {
+                    "signal": "HISTORY_FORWARD"
+                  }
+                }
+              ]
+            },
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/service_ajax",
+                "sendPost": true
+              }
+            }
+          }
+        }
+      },
+      "a11ySkipNavigationButton": {
+        "buttonRenderer": {
+          "size": "SIZE_DEFAULT",
+          "isDisabled": false,
+          "text": {
+            "runs": [
+              {
+                "text": "跳过导航"
+              }
+            ]
+          },
+          "trackingParams": "CAQQ8FsiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+          "command": {
+            "clickTrackingParams": "CAQQ8FsiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+            "signalServiceEndpoint": {
+              "signal": "CLIENT_SIGNAL",
+              "actions": [
+                {
+                  "clickTrackingParams": "CAQQ8FsiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+                  "signalAction": {
+                    "signal": "SKIP_NAVIGATION"
+                  }
+                }
+              ]
+            },
+            "commandMetadata": {
+              "webCommandMetadata": {
+                "url": "/service_ajax",
+                "sendPost": true
+              }
+            }
+          },
+          "style": "STYLE_DEFAULT"
+        }
+      }
+    }
+  },
+  "adSafetyReason": {
+    "isWebAndAppActivityEnabled": true
+  },
+  "onResponseReceivedCommands": [
+    {
+      "clickTrackingParams": "CAAQvGkiEwiaxKjytqHrAhVRKSoKHaDuAUA=",
+      "appendContinuationItemsAction": {
+        "continuationItems": [
+          {
+            "itemSectionRenderer": {
+              "contents": [
+                {
+                  "messageRenderer": {
+                    "text": {
+                      "runs": [
+                        {
+                          "text": "无更多结果"
+                        }
+                      ]
+                    },
+                    "trackingParams": "CAIQljsYACITCJrEqPK2oesCFVEpKgodoO4BQA=="
+                  }
+                }
+              ],
+              "trackingParams": "CAEQuy8YACITCJrEqPK2oesCFVEpKgodoO4BQA=="
+            }
+          }
+        ],
+        "targetId": "search-feed"
+      }
+    }
+  ]
+}
